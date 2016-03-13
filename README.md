@@ -4,8 +4,6 @@ This project is a 2D side scrolling platform similar to Mario, coded in Object O
 
 The code is based on the final project from my Processes of Object Oriented Software Engineering class when I was in college.
 
-See Project Description.pdf for more information.
-
 ## Usage
 
 Copy the project using `git clone  https://github.com/cwalk/Cave-Game`

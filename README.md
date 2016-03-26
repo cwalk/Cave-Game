@@ -22,4 +22,4 @@ Please refer to the UserManual.pdf for detailed information on how to play the g
 
 ## YouTube
 
-YouTube:
+YouTube: https://www.youtube.com/watch?v=WG8H-q-vqNw

@@ -9,7 +9,7 @@ public class Player extends Canvas{
 	
 	private static final long serialVersionUID = 1L;
 
-	protected boolean isGay;
+	protected boolean isGray;
 	private boolean isRight, isLeft, isWalk, isRun, isAlive;
 	public boolean isBlock, isBlockLeft, isBlockRight;
 	
@@ -25,7 +25,7 @@ public class Player extends Canvas{
 	public Player(GameStateHandler state, String info) {
 		this.state = state;
 		this.info = info;
-		this.isGay = true;
+		this.isGray = true;
 		initPlayer();
 	}	
 	
